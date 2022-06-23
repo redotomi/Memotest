@@ -1,2 +1,2 @@
-# memotest
-Juego de MemoTest para r/argentinaprograma, (hecho con los visto solo hasta la clase 10)
+# Memotest
+Juego de MemoTest que implementa metodos de manipulación del DOM, Bootstrap y animaciones de CSS
